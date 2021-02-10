@@ -37,8 +37,17 @@
         <div>
             <h3>Serious stuff</h3>
         </div>
+        <div>
+            <h3>Exciting Stuff</h3>
+        </div>
+        <div>
+            <h3>Boring Stuff </h3>
+        </div>
     </section>
 
 </div>
 </body>
 </html>
+
+
+<script src="js/script.js"></script>
